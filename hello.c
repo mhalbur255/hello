@@ -8,6 +8,8 @@ int main(void)
 	{
 		printf("Matthew Halbur\n");
 		printf("Major: Computer Science\n");
+		printf("Sean Michel\n");
+		printf("Computer Science\n");
 		return 0;
 	}
 
